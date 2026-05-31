@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepncrypt",
+        "uuid": 5373952,
+        "checksum": "caky55"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
